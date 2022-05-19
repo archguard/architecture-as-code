@@ -1,5 +1,7 @@
 # Architecture as Code
 
+## Move to [Architecture as Code](https://github.com/archguard/scanner/tree/master/architecture-as-code)
+
 [![Java CI](https://github.com/archguard/architecture-as-code/actions/workflows/ci.yaml/badge.svg)](https://github.com/archguard/architecture-as-code/actions/workflows/ci.yaml)
 [![codecov](https://codecov.io/gh/archguard/architecture-as-code/branch/master/graph/badge.svg?token=RSAOWTRFMT)](https://codecov.io/gh/archguard/architecture-as-code)
 
